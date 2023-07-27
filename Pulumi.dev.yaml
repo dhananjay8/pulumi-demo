@@ -1,0 +1,8 @@
+config:
+  aws:region: us-east-1
+  my-demo-3:sql-admin-name: admin
+  my-demo-3:sql-admin-password:
+    secure: AAABAICrMokbz+c8gM8BJEL0lkqVxh7NaEzXl8C8d2ygfnWvL+F0dQ==
+  my-demo-3:sql-user-name: user
+  my-demo-3:sql-user-password:
+    secure: AAABAIfAQWR4b8tPOzKACz8dP+mHUJEk7gbeY4yTmr2glab/qRwX
